@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC 
+"-//Hibernate/Hibernate Mapping DTD 3.0//EN" 
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+ 	<class name="com.cdac.Pojo.Employee" table="Employees" >
+  		<id name="id" type="int" column="id" >
+   			<generator class="native"/>
+  		</id>
+ 		<property name="empName" column="emp_Name" type="string" />
+		<property name="empEmail" column="emp_Email" type="string" />
+		<property name="empPassword" column="emp_password" type="string" />
+		<property name="empAddress" column="emp_address" type="string" />
+		<property name="empSalary" column="emp_salary" type="int" /> 
+	</class>
+</hibernate-mapping> 

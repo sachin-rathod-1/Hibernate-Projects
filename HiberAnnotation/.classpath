@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="C:/Users/rsach/OneDrive/Desktop/PG-DAC/Advance Java/JAR Files/Hibernate jar/antlr-2.7.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rsach/OneDrive/Desktop/PG-DAC/Advance Java/JAR Files/Hibernate jar/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rsach/OneDrive/Desktop/PG-DAC/Advance Java/JAR Files/Hibernate jar/hibernate-commons-annotations-4.0.1.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rsach/OneDrive/Desktop/PG-DAC/Advance Java/JAR Files/Hibernate jar/hibernate-core-4.1.5.Final.jar" sourcepath="C:/Users/rsach/OneDrive/Desktop/PG-DAC/Advance Java/JAR Files/Hibernate jar"/>
+	<classpathentry kind="lib" path="C:/Users/rsach/OneDrive/Desktop/PG-DAC/Advance Java/JAR Files/Hibernate jar/hibernate-entitymanager-4.1.5.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rsach/OneDrive/Desktop/PG-DAC/Advance Java/JAR Files/Hibernate jar/hibernate-jpa-2.0-api-1.0.1.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rsach/OneDrive/Desktop/PG-DAC/Advance Java/JAR Files/Hibernate jar/javassist-3.15.0-GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rsach/OneDrive/Desktop/PG-DAC/Advance Java/JAR Files/Hibernate jar/jboss-logging-3.1.0.GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rsach/OneDrive/Desktop/PG-DAC/Advance Java/JAR Files/Hibernate jar/jboss-transaction-api_1.1_spec-1.0.0.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rsach/OneDrive/Desktop/PG-DAC/Advance Java/JAR Files/Hibernate jar/jsp-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rsach/OneDrive/Desktop/PG-DAC/Advance Java/JAR Files/Hibernate jar/mysql-connector-java-5.1.19-bin.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rsach/OneDrive/Desktop/PG-DAC/Advance Java/JAR Files/Hibernate jar/servlet.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rsach/OneDrive/Desktop/PG-DAC/Advance Java/JAR Files/Hibernate jar/servlet-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rsach/OneDrive/Desktop/PG-DAC/Advance Java/JAR Files/Hibernate jar/slf4j-api-1.6.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rsach/OneDrive/Desktop/PG-DAC/Advance Java/JAR Files/Hibernate jar/slf4j-simple-1.6.6.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
